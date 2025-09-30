@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-url: "https://ShawnYang1109.github.io"  # 你的网站地址
+# url: "https://ShawnYang1109.github.io"  # 你的网站地址
 baseurl: "https://ShawnYang1109.github.io"  # 如果网站不在子目录，保持为空
 
 
